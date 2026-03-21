@@ -1,42 +1,43 @@
-# India Aspiration-Opportunity Mismatch Index
+# India Aspiration–Opportunity Mismatch
 
-## 📌 Problem Statement
-India has a growing mismatch between:
-- Youth aspirations (education, expectations)
-- Available job opportunities (employment reality)
+## 🌱 Why I Started This Project
 
-This project quantifies that gap using data.
+Growing up, I’ve always heard a common story around me —
+people working incredibly hard, getting educated, dreaming big… yet somehow ending up in jobs that don’t match their aspirations.
 
-## 🎯 Objective
-To build an index that captures the mismatch between:
-- Education levels
-- Employment outcomes
-- Skill-job alignment
+This made me wonder:
+**Is there a deeper mismatch between what people aspire to and what the economy actually offers?**
 
-## 📊 Data Sources
-- PLFS (Periodic Labour Force Survey)
-- World Bank Data
-- CMIE (if used)
+This project is my attempt to explore that question using data.
 
-## ⚙️ Methodology
-- Data Cleaning (Python)
-- Variable Construction
-- Regression Analysis
-- Index Creation
+---
 
-## 📈 Key Insights
-- Educated unemployment is rising
-- Skill mismatch is a major issue
-- Urban-rural divide in opportunities
+## 🎯 What This Project Tries to Do
 
-## 🛠️ Tools Used
-- Python (Pandas, NumPy, Matplotlib)
-- Google Colab
+The idea is simple, but important:
+to understand the gap between **education, skills, and employment outcomes** in India.
 
-## 🚀 Future Scope
-- State-wise index
-- Time-series analysis
-- Policy simulation
+Through this project, I try to:
 
-## 👩‍💻 Author
+* Examine whether higher education is actually translating into better job opportunities
+* Identify patterns of unemployment and underemployment
+* Build a basic index that reflects this mismatch
+
+---
+
+## 📊 How I Approached It
+
+I worked with publicly available datasets and used Python to make sense of the numbers.
+
+The process involved:
+
+* Cleaning and organizing raw data
+* Creating meaningful variables
+* Running a basic regression to see relationships
+* Visualizing trends to better understand the story
+
+---
+
+## 📈 What I Found
+thor
 Samikhya Paul
