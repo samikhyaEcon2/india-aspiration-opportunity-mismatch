@@ -38,6 +38,20 @@ The process involved:
 
 ---
 
-## 📈 What I Found
-thor
-Samikhya Paul
+## 📈 What I Found (So Far)
+# India Aspiration–Opportunity Mismatch
+
+While this is still a work in progress, a few patterns stood out:
+
+Higher education does not always guarantee better employment outcomes
+There appears to be a growing gap between skills and job market demand
+Youth, especially in urban areas, seem to face a stronger mismatch
+
+These are not final conclusions, but they highlight an important direction for further research.
+---
+
+
+* Running a basic regression to see relationships
+* Visualizing trends to better understand the story
+
+
